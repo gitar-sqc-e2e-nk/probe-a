@@ -1,2 +1,2 @@
 def probe():
-    return "marker gating verification"
+    return "review resumed after marker restoration"
