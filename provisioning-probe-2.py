@@ -1,2 +1,2 @@
 def probe():
-    return "native Sonar webhook test"
+    return "marker gating verification"
